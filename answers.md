@@ -43,14 +43,14 @@
 6. answers.md is now under changes to be committed and both     files are green
 7. It says nothing to commit, working tree clean
 8. commit 1672898eef31dc199207d534ca2cb0a263e56cf0 (HEAD ->     master)
-    Author: KellenGromosiak <kg630622@ohio.edu>
-    Date:   Tue Jan 23 19:15:20 2024 -0500
+9. Branch is up to date, nothing to cmmit, working tree clean
 
-    Initial commit
+10. The changes were not reflected in the terminal
 
-    commit 78a85f8938e9072f5ea296ca930f005fe0fc9734
-    Author: KellenGromosiak <kg630622@ohio.edu>
-    Date:   Tue Jan 23 19:13:40 2024 -0500
+11. It generated an error, saying that the updates were rejected
 
-    Initial commit
-9. 
+12. The changes were now reflected
+
+13. . .. .git .gitignore README.md
+
+Done
