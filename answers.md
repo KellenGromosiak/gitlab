@@ -53,4 +53,10 @@
     Date:   Tue Jan 23 19:13:40 2024 -0500
 
     Initial commit
-9. 
+9. Branch is up to date, nothing to cmmit, working tree clean
+10. The changes were not reflected in the terminal
+11. It generated an error, saying that the updates were rejected
+12. The changes were now reflected
+13. .  ..  .git  .gitignore  README.md
+
+Done
