@@ -1,8 +1,5 @@
-1. git version 2.34.1
-2. user.name=KellenGromosiak user.email=kg630622@ohio.edu
-3. usage:
-    These are common Git commands used in various situations:
 
+<<<<<<< HEAD
     start a working area (see also: git help tutorial)
    clone     Clone a repository into a new directory
    init      Create an empty Git repository or reinitialize an existing one
@@ -54,3 +51,5 @@
 13. . .. .git .gitignore README.md
 
 Done
+=======
+>>>>>>> 3d6359d43bf0691587b93b5042b03b1feb2899bc
